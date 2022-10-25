@@ -59,7 +59,6 @@ When searching for the hover effect on the button found a lot of creative ways t
 
 - Github - [Shameer Kamaludeen](https://github.com/shameerkamaludeen)
 - Frontend Mentor - [@shameerkamaludeen](https://www.frontendmentor.io/profile/shameerkamaludeen)
-- Twitter - [@ShameerKamalud1](https://twitter.com/ShameerKamalud1)
 
 ## Acknowledgments
 
